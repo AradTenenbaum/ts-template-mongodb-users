@@ -1,0 +1,4 @@
+Typescript
+Express Server
+MongoDB
+User Auth with token and validation
